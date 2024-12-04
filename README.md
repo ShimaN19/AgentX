@@ -11,8 +11,8 @@ AgentX is a streamlined code generation agent that uses GPT-4 to convert user pr
 
  # Thought Logs:\n
 
-[Agent Thought]: Initiating code generation process based on the given prompt.\n
-[Agent Thought]: Now installing any required libraries.\n
+\[Agent Thought]: Initiating code generation process based on the given prompt.\n
+\[Agent Thought]: Now installing any required libraries.\n
 [Agent Thought]: Checking for required libraries to install.\n
 [Agent Thought]: Executing the generated code.\n
 [Agent Thought]: Preparing to execute the generated code.\n
