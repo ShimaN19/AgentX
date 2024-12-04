@@ -28,10 +28,8 @@ During its operations, **AgentX** generates "thought logs" to give transparency 
 - **[Agent Thought]:** Executing the generated code.
 - **[Agent Thought]:** Preparing to execute the generated code.
 - **[Agent Thought]:** Printing the prettified version of the generated code.
-
-## Required Installations:
-
-If needed, AgentX will automatically indicate the required installations for generated code. For example:
+- **Required Installations:**
+If needed, AgentX will automatically indicate the required installations for generated code and install them. For example:
 
 ```python
 # Required installations:
