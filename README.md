@@ -3,11 +3,9 @@ AgentX is a streamlined code generation agent that uses GPT-4 to convert user pr
 
 
  In the root directory (agent), run:
- 
  pip install -e .
-
- Run the agent from the terminal using:
  
+ Run the agent from the terminal using:
  run-agent "Generate a Python script to train a neural network on the MNIST dataset using PyTorch."
 
 
